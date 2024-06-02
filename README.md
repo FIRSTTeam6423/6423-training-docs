@@ -1,7 +1,7 @@
 # 6423 training docs (incomplete)
 ###### FRC 6423's training material
 
-This repository is a sort of manual for new members of 6423's programming team
+This repository is a set of manuals for new members of 6423's programming team
 
 ---
 #### Structure
